@@ -1,6 +1,6 @@
 {
   "name": "@rbxts/use-next-context",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "main": "out/init.lua",
   "repository": "https://github.com/howmanysmall/use-next-context.git",
   "author": "HowManySmall",
