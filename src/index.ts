@@ -11,8 +11,8 @@ import React, {
 	useRef,
 	useState,
 } from "@rbxts/react";
-import objectIs from "object-is";
-import Symbol from "symbol";
+import objectIs from "./object-is";
+import Symbol from "./symbol";
 import type { ContextNextValue, Listener, NextContext } from "./types";
 
 const PROVIDER_NAME = "@use-context-next";
