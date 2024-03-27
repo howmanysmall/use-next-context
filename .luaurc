@@ -1,0 +1,10 @@
+{
+	"languageMode": "strict",
+	"aliases": {
+		"packages": "./.lune/Packages"
+	},
+
+	"lint": {
+		"*": true
+	}
+}

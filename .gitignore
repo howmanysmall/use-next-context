@@ -1,0 +1,7 @@
+/node_modules
+/out
+/include
+*.tsbuildinfo
+
+*.code-workspace
+sourcemap.json
